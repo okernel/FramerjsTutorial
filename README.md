@@ -3,7 +3,15 @@ Framerjs Basic Tutorial
 
 You need to know at least 3 Things to make an animation (Layer, Event, and State). 
 
+**A demo about Layer**
+
+![layer](http://oblpuaus7.bkt.clouddn.com/layer01.gif)
+
 You can simply think of state as a preset animation between state A and B.
+
+**A demo about State**
+
+![layer](http://oblpuaus7.bkt.clouddn.com/state01.gif)
 
 
 License
