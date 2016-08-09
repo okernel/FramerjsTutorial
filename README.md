@@ -5,13 +5,13 @@ You need to know at least 3 Things to make an animation (Layer, Event, and State
 
 **A demo about Layer**
 
-![layer](http://oblpuaus7.bkt.clouddn.com/layerdemo-01.gif)
+![layer](http://oblpuaus7.bkt.clouddn.com/class1-layer.gif)
 
 You can simply think of state as a preset animation between state A and B.
 
 **A demo about State**
 
-![layer](http://oblpuaus7.bkt.clouddn.com/statedemo-01.gif)
+![layer](http://oblpuaus7.bkt.clouddn.com/class2-statedemo.gif)
 
 
 License
